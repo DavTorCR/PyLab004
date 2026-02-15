@@ -7,7 +7,7 @@ print("Hello World!")
 import turtle
 
 
-"""VVV PUT YOUR FUNCTIONS HERE VVV"""
+""" ******* PUT YOUR FUNCTIONS HERE ******* """
 
 
 """This is the function we are to use to draw a square:"""
@@ -148,7 +148,7 @@ t.clear()
 t.color("white")
 
 
-""" VVV PUT YOUR DRAW CALLS HERE VVV """
+""" ***** PUT YOUR DRAW CALLS HERE ****** """
 jump(t, -290, -280)
 draw_square(t, 35)
 jump(t, -275, -235)
@@ -182,7 +182,7 @@ draw_sky(t, 40)# Draw the night sky
 
 draw_mini_Jacky_Lantern() #This is my attempt at the extra credit.
 
-""" /\/\/\ PUT YOUR DRAW CALLS HERE /\/\/\ """
+""" ***** PUT YOUR DRAW CALLS HERE ******* """
 
 
 turtle.exitonclick()
